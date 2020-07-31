@@ -2,15 +2,19 @@ import React from "react";
 import {render} from "react-dom";
 import {Router} from "@reach/router";
 
+import {GlobalStyles} from "./GlobalStyles";
 import {Home} from "@screens/Home";
 
 import * as serviceWorker from "./serviceWorker";
 
 function App() {
   return (
-    <Router>
-      <Home path="/" />
-    </Router>
+    <>
+      <GlobalStyles />
+      <Router>
+        <Home path="/" />
+      </Router>
+    </>
   );
 }
 
