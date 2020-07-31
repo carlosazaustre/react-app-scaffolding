@@ -11,7 +11,7 @@
     <img src="docs/custom-cra.png" alt="Logo">
   </a>
 
-  <h3 align="center">React App Scaffolding</h3>
+  <h1 align="center">React App Scaffolding</h1>
 
   <p align="center">
     This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and added ESLint + Prettier + Styled Components + Reach Router.
@@ -47,7 +47,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![React App Scaffolding](docs/demo.png)
 
 ### Built With
 
@@ -202,7 +202,6 @@ Project Link: [https://github.com/carlosazaustre/react-app-scaffolding](https://
 [issues-shield]: https://img.shields.io/github/issues/carlosazaustre/react-app-scaffolding.svg?style=flat-square
 [issues-url]: https://github.com/carlosazaustre/react-app-scaffolding/issues
 [license-shield]: https://img.shields.io/github/license/carlosazaustre/react-app-scaffolding.svg?style=flat-square
-[license-url]: https://github.com/carlosazaustre/react-app-scaffolding/blob/master/LICENSE.txt
+[license-url]: https://github.com/carlosazaustre/react-app-scaffolding/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/carlosazaustre
-[product-screenshot]: docs/screenshot.png
